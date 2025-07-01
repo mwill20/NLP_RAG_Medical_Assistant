@@ -1,0 +1,36 @@
+# Core Dependencies
+python>=3.8.0,<3.12.0
+
+# Data Processing
+numpy>=1.26.4
+pandas>=1.5.3
+
+# NLP and ML
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# Document Processing
+pymupdf>=1.24.1
+python-dotenv>=1.0.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# LLM and LangChain
+langchain>=0.1.1
+langchain-community>=0.0.13
+llama-cpp-python>=0.1.85
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
